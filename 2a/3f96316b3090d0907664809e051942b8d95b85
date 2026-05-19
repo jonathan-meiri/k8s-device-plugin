@@ -1,0 +1,26 @@
+api/config/v1/config_test.go
+  s_59e8cca30a146c::t_9a31e568f21573 87-92
+  s_59e8cca30a146c::t_adb72e275e1bdc 60-86,93-137
+internal/rm/allocate_test.go
+  s_59e8cca30a146c::t_f9456bc787ce08 50,53,60,63,65
+  s_59e8cca30a146c::t_4ac6b965b9d949 1-49,51-52,54-59,61-62,64,66-67,73-91,96-114,117
+  s_59e8cca30a146c::t_688e0c2dcc7441 68-72
+  s_59e8cca30a146c::t_247b5fbe7f02f9 92-95
+  s_59e8cca30a146c::t_f4e47a60204c54 115-116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10",
+  "base_commit_sha": "2a3f96316b3090d0907664809e051942b8d95b85",
+  "prompts": {},
+  "sessions": {
+    "s_59e8cca30a146c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a3b7a5df-06d8-436d-b400-dc94d4aec144",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": null
+    }
+  }
+}
