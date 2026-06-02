@@ -1,0 +1,20 @@
+internal/rm/allocate.go
+  s_59e8cca30a146c::t_e5905c7d835192 20,24-44,53,66-69,72-75,77,80-81,83-85,88-93,95-99,101-110,113
+  s_59e8cca30a146c::t_1e5eabe9324b75 45-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "b9da1433f3660b8cf0e3eec8096fccd3a7e20382",
+  "prompts": {},
+  "sessions": {
+    "s_59e8cca30a146c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a3b7a5df-06d8-436d-b400-dc94d4aec144",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": null
+    }
+  }
+}
