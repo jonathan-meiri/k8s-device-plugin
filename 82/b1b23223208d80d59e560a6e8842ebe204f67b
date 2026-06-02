@@ -1,0 +1,19 @@
+internal/rm/allocate.go
+  s_59e8cca30a146c::t_e5905c7d835192 20,24-48,61-64,67-70,72,75-76,78-80,83-88,90-94,96-105,108
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "82b1b23223208d80d59e560a6e8842ebe204f67b",
+  "prompts": {},
+  "sessions": {
+    "s_59e8cca30a146c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a3b7a5df-06d8-436d-b400-dc94d4aec144",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Jonathan Meiri <33288957+Meiri28@users.noreply.github.com>"
+    }
+  }
+}
