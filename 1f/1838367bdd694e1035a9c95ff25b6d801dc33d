@@ -1,0 +1,30 @@
+cmd/mps-control-daemon/mps/root.go
+  s_59e8cca30a146c::t_c556b96f40c641 55-64
+internal/plugin/mps.go
+  s_59e8cca30a146c::t_279edf5579f144 75-101,103
+  s_59e8cca30a146c::t_b12515475b103a 22,32-38
+  s_59e8cca30a146c::t_e5dd4b903a34e4 39-40
+cmd/mps-control-daemon/mps/daemon_test.go
+  s_59e8cca30a146c::t_d4d82441f031e9 1-49
+cmd/mps-control-daemon/mps/daemon.go
+  s_59e8cca30a146c::t_5807bd0a84ae2b 209-218
+cmd/mps-control-daemon/main.go
+  s_59e8cca30a146c::t_75b440eeada66c 216
+  s_59e8cca30a146c::t_5eea35b58c8da2 226
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "1f1838367bdd694e1035a9c95ff25b6d801dc33d",
+  "prompts": {},
+  "sessions": {
+    "s_59e8cca30a146c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a3b7a5df-06d8-436d-b400-dc94d4aec144",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Jonathan Meiri <33288957+Meiri28@users.noreply.github.com>"
+    }
+  }
+}
