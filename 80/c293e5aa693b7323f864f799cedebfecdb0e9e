@@ -1,0 +1,31 @@
+internal/rm/allocate.go
+  s_59e8cca30a146c::t_0fec4bdc151200 132-136,141-147,158-171,173-185,187-196
+  s_59e8cca30a146c::t_0cb271fa485c1d 20
+  s_59e8cca30a146c::t_5c33ba34c7d322 37-47,50-53,60-66,69-87,130-131,137-140,172
+internal/rm/allocate_test.go
+  s_59e8cca30a146c::t_2f8d3018f42464 408-409,428-432,455-463,466-467
+  s_59e8cca30a146c::t_04cb4190180360 464-465
+  s_59e8cca30a146c::t_cf04d2788f1760 476-480,482-487,490-493,498
+  s_59e8cca30a146c::t_dc8b3e0203d08a 468,572-704
+  s_59e8cca30a146c::t_10b0dfce9b9ab4 469
+api/config/v1/consts.go
+  s_59e8cca30a146c::t_c538b94f309716 55
+cmd/nvidia-device-plugin/main.go
+  s_59e8cca30a146c::t_7d78a4daa095b3 222
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "80c293e5aa693b7323f864f799cedebfecdb0e9e",
+  "prompts": {},
+  "sessions": {
+    "s_59e8cca30a146c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a3b7a5df-06d8-436d-b400-dc94d4aec144",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Jonathan Meiri <33288957+Meiri28@users.noreply.github.com>"
+    }
+  }
+}
