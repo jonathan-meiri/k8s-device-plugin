@@ -1,0 +1,20 @@
+internal/rm/allocate_bench_test.go
+  s_59e8cca30a146c::t_8fda427ba3c3ad 1-25,48-50,57-60,63-70
+  s_59e8cca30a146c::t_97b87054587cce 26-47,51-56,61-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "6899f6a61dac71e2df3593fb0d979fa54950ea33",
+  "prompts": {},
+  "sessions": {
+    "s_59e8cca30a146c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a3b7a5df-06d8-436d-b400-dc94d4aec144",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Jonathan Meiri <33288957+Meiri28@users.noreply.github.com>"
+    }
+  }
+}
