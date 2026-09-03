@@ -1,0 +1,27 @@
+cmd/mps-control-daemon/mps/daemon_test.go
+  s_59e8cca30a146c::t_8a3248f85bce9a 1-79
+api/config/v1/config_test.go
+  s_59e8cca30a146c::t_961e4a1d90e31e 60-137
+api/config/v1/replicas.go
+  s_59e8cca30a146c::t_7917d79f990cd8 35-44,49,52
+cmd/mps-control-daemon/mps/daemon.go
+  s_59e8cca30a146c::t_cc4e39e989aa5c 237-251,253,271,289-290,293
+api/config/v1/config.go
+  s_59e8cca30a146c::t_4f91eaa6459f39 81-87,96-98
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "d8ff5d11e9452a0e8578d86c067d8b355b41daed",
+  "prompts": {},
+  "sessions": {
+    "s_59e8cca30a146c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a3b7a5df-06d8-436d-b400-dc94d4aec144",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": null
+    }
+  }
+}
