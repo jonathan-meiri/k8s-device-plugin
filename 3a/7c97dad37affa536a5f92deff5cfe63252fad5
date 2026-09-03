@@ -1,0 +1,22 @@
+internal/rm/allocate_bench_test.go
+  s_59e8cca30a146c::t_8fda427ba3c3ad 1-25,36-38,45-48,51-58
+  s_59e8cca30a146c::t_32b62191c4eb3f 33-35
+  s_59e8cca30a146c::t_f2f1c21b19ffec 27-28
+  s_59e8cca30a146c::t_97b87054587cce 26,29-32,39-44,49-50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "3a7c97dad37affa536a5f92deff5cfe63252fad5",
+  "prompts": {},
+  "sessions": {
+    "s_59e8cca30a146c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a3b7a5df-06d8-436d-b400-dc94d4aec144",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}
