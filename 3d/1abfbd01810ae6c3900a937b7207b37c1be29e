@@ -1,0 +1,40 @@
+internal/rm/allocate_test.go
+  s_59e8cca30a146c::t_2f8d3018f42464 408-409,428-432,457-459,462-463
+  s_59e8cca30a146c::t_cf04d2788f1760 470-475,478-481,486
+  s_59e8cca30a146c::t_0d35f5903da9bd 686-689,691-705
+  s_59e8cca30a146c::t_038403e8b406cb 706-726
+  s_59e8cca30a146c::t_9eda283e77179c 661-663
+  s_59e8cca30a146c::t_10b0dfce9b9ab4 465
+  s_59e8cca30a146c::t_dc8b3e0203d08a 464,560-660,664-685
+  s_59e8cca30a146c::t_f88c030bed7c7a 455-456,466-468
+  s_59e8cca30a146c::t_4994e119ba5998 690
+  s_59e8cca30a146c::t_04cb4190180360 460-461
+internal/rm/allocate.go
+  s_59e8cca30a146c::t_1260b69507b93b 175-176,178-180
+  s_59e8cca30a146c::t_4b2963ebcbebbb 40,48-52,56-62,65,68-69
+  s_59e8cca30a146c::t_db09e64759519a 63-64,66-67
+  s_59e8cca30a146c::t_0104168e051fa9 115-125
+  s_59e8cca30a146c::t_affaba606d3a91 128-129,137
+  s_59e8cca30a146c::t_ca1455a7534855 172-174,177
+cmd/nvidia-device-plugin/main.go
+  s_59e8cca30a146c::t_dfbb4a5a87d11e 148
+  s_59e8cca30a146c::t_7d78a4daa095b3 222
+api/config/v1/consts.go
+  s_59e8cca30a146c::t_c538b94f309716 55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3d1abfbd01810ae6c3900a937b7207b37c1be29e",
+  "prompts": {},
+  "sessions": {
+    "s_59e8cca30a146c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a3b7a5df-06d8-436d-b400-dc94d4aec144",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}
