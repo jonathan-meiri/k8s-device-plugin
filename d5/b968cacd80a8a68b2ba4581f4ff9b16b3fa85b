@@ -1,0 +1,50 @@
+cmd/mps-control-daemon/main.go
+  s_59e8cca30a146c::t_5eea35b58c8da2 232
+  s_59e8cca30a146c::t_d5b63e4e87de94 208-213
+  s_59e8cca30a146c::t_75b440eeada66c 222
+cmd/mps-control-daemon/mps/daemon_test.go
+  s_59e8cca30a146c::t_4fdc7b85b34333 2
+  s_59e8cca30a146c::t_50ccf0b43d1a4e 36-38,41-43,46-61
+  s_59e8cca30a146c::t_d4d82441f031e9 1,3-35,39-40,44-45,62
+cmd/nvidia-device-plugin/main.go
+  s_59e8cca30a146c::t_bb3d36fcdf92f1 408
+internal/plugin/mps.go
+  s_59e8cca30a146c::t_9ec232e98ba145 77-79,81-83
+  s_59e8cca30a146c::t_b12515475b103a 23,34-35,38
+  s_59e8cca30a146c::t_ad18b900f4f6f2 36-37
+  s_59e8cca30a146c::t_e5dd4b903a34e4 39-40
+  s_59e8cca30a146c::t_c6ec7d9a8cbc23 86-87
+  s_59e8cca30a146c::t_b0b9fbf3aa448e 20,25
+  s_59e8cca30a146c::t_279edf5579f144 75,80,84-85,88,94-95,97
+  s_59e8cca30a146c::t_a20f98e7890d96 71,76
+  s_59e8cca30a146c::t_0331edc3d6d459 89-93
+cmd/mps-control-daemon/mps/daemon.go
+  s_59e8cca30a146c::t_5807bd0a84ae2b 212,220-221
+  s_59e8cca30a146c::t_4abd0745b7358e 209
+  s_59e8cca30a146c::t_1c2c149c5a13b7 210-211,213-219
+internal/plugin/api.go
+  s_59e8cca30a146c::t_e056394c751906 19-23,28
+internal/plugin/server.go
+  s_59e8cca30a146c::t_2ca09e09745890 129,132
+internal/plugin/mps_test.go
+  s_59e8cca30a146c::t_8ee1d95de9bca5 1-41
+cmd/mps-control-daemon/mps/root.go
+  s_59e8cca30a146c::t_9a8d60a1fcb59c 55-56
+  s_59e8cca30a146c::t_c556b96f40c641 57-60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d5b968cacd80a8a68b2ba4581f4ff9b16b3fa85b",
+  "prompts": {},
+  "sessions": {
+    "s_59e8cca30a146c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a3b7a5df-06d8-436d-b400-dc94d4aec144",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}
