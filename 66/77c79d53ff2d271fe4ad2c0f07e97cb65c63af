@@ -1,0 +1,26 @@
+internal/rm/devices.go
+  s_59e8cca30a146c::t_63e826c8fc6448 239-246
+  s_59e8cca30a146c::t_6de8087cab4529 237-238
+internal/rm/allocate.go
+  s_59e8cca30a146c::t_03878e4e31b29e 95,102
+  s_59e8cca30a146c::t_12a7928265b435 163
+internal/rm/allocate_test.go
+  s_59e8cca30a146c::t_b935b78fc487a4 119-120
+  s_59e8cca30a146c::t_6767eeb5906b92 108-118,121-140
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6677c79d53ff2d271fe4ad2c0f07e97cb65c63af",
+  "prompts": {},
+  "sessions": {
+    "s_59e8cca30a146c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a3b7a5df-06d8-436d-b400-dc94d4aec144",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Jonathan Meiri <33288957+Meiri28@users.noreply.github.com>"
+    }
+  }
+}
