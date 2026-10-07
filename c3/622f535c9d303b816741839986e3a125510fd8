@@ -1,0 +1,46 @@
+internal/rm/allocate.go
+  s_99c0124067abb4::t_f39352d06f919a 53-56,64-72,81-84
+  s_99c0124067abb4::t_801145680611a2 131
+  s_99c0124067abb4::t_5187038976cb13 174-177,186
+  s_99c0124067abb4::t_bf3fcaa5f1a23f 139
+  s_59e8cca30a146c::t_f2221fa229f156 196
+  s_99c0124067abb4::t_ea7993755f65c1 201-202
+  s_59e8cca30a146c::t_03878e4e31b29e 110,117
+  s_99c0124067abb4::t_7435ae85c88b9e 22
+  s_59e8cca30a146c::t_12a7928265b435 183
+internal/rm/devices.go
+  s_59e8cca30a146c::t_63e826c8fc6448 239-246
+  s_59e8cca30a146c::t_6de8087cab4529 237-238
+internal/rm/allocate_test.go
+  s_99c0124067abb4::t_99f9d7a1af8b3b 126-137
+  s_99c0124067abb4::t_edf9a10461c1ca 140-168,179-200
+  s_99c0124067abb4::t_4a8017fdbda2f3 169-178
+  s_99c0124067abb4::t_8e4d5b410dffc6 571-573
+  s_59e8cca30a146c::t_6767eeb5906b92 108,111-125,138-139
+  s_99c0124067abb4::t_42fa19ab498c82 559-562
+  s_59e8cca30a146c::t_b935b78fc487a4 109-110
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c3622f535c9d303b816741839986e3a125510fd8",
+  "prompts": {},
+  "sessions": {
+    "s_59e8cca30a146c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a3b7a5df-06d8-436d-b400-dc94d4aec144",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    },
+    "s_99c0124067abb4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7e2180c5-be42-4190-9067-d3b3a2a48cbd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}
