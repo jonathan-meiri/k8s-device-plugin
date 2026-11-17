@@ -42,6 +42,8 @@ internal/plugin/mps.go
   s_99c0124067abb4::t_2e0b8f280b6d36 80,82-91,111-130
   s_59e8cca30a146c::t_3dd1d9a5298545 95-99
   s_59e8cca30a146c::t_ddce782ff45828 100
+cmd/mps-control-daemon/mps/scope_test.go
+  s_99c0124067abb4::t_12fb78e20b68b1 1-111
 ---
 {
   "schema_version": "authorship/3.0.0",
