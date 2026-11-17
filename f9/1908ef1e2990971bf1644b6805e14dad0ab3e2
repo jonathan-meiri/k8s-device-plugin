@@ -48,6 +48,8 @@ cmd/mps-control-daemon/mps/root.go
   s_99c0124067abb4::t_60451f0b8a15d0 27-30
 internal/plugin/server.go
   s_59e8cca30a146c::t_2ca09e09745890 129,132
+cmd/mps-control-daemon/mps/ready_test.go
+  s_99c0124067abb4::t_08fe8791dfb40c 1-62
 ---
 {
   "schema_version": "authorship/3.0.0",
